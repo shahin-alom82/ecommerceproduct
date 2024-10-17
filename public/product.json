@@ -1,0 +1,412 @@
+[
+      {
+            "title": "Samsung Galaxy A14",
+            "category": "mobile",
+            "description": "The Samsung Galaxy A14 offers 4GB/6GB RAM and 64GB/128GB storage, expandable up to 1TB via microSD. It features a 50MP triple-camera and a 5000mAh battery for all-day use",
+            "price": 189.33,
+            "oldPrice": 199.96,
+            "discountPrice": 4.62,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/xg3KyNH/mobile2.png"
+      },
+      {
+            "title": "Samsung-Galaxy-S21-FE-5-G",
+            "category": "mobile",
+            "description": "The Samsung Galaxy S21 FE 5G offers 6GB/8GB of RAM and 128GB/256GB of internal storage. It features a 6.4-inch Dynamic AMOLED display, a 12MP triple-camera system, and a 4500mAh battery with fast charging support.",
+            "price": 725.00,
+            "oldPrice": 729.99,
+            "discountPrice": 4.62,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/3cp8ntD/Samsung-Galaxy-S21-FE-5-G.webp"
+      },
+      {
+            "title": "Galaxy A03 Core",
+            "category": "mobile",
+            "description": "The Samsung Galaxy A03 Core features 2GB RAM and 32GB storage, expandable up to 1TB via microSD. It includes an 8MP rear camera and a 5000mAh battery for extended use.",
+            "price": 444.23,
+            "oldPrice": 446.77,
+            "discountPrice": 4.62,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/Y8MgQq4/mobile4.webp"
+      },
+      {
+            "title": "Samsung Galaxy Z Fold4 5G",
+            "category": "mobile",
+            "description": "The Samsung Galaxy Z Fold4 5G offers 12GB of RAM and 256GB/512GB/1TB of internal storage. It features a foldable 7.6-inch AMOLED display, a triple-camera system, and a 4400mAh battery with fast charging.",
+            "price": 2050.33,
+            "oldPrice": 2100.99,
+            "discountPrice": 4.62,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/X3k0bCJ/Samsung-Galaxy-Z-Fold4-5-G.png"
+      },
+      {
+            "title": "Samsung-Galaxy-Note-20",
+            "category": "mobile",
+            "description": "The Samsung Galaxy Note 20 comes with 8GB of RAM and 128GB/256GB of internal storage. It features a 6.7-inch Super AMOLED display, a 64MP triple-camera system, and a 4300mAh battery with fast charging.",
+            "price": 833.33,
+            "oldPrice": 835.99,
+            "discountPrice": 4.62,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/WFx2yyq/Samsung-Galaxy-Note-20.webp"
+      },
+      {
+            "title": "Smart Digital watch",
+            "category": "watch",
+            "description": "Stylish smartwatch that tracks fitness, heart rate, and notifications, keeping you connected on the go. With customizable watch faces and long battery life, its perfect for both workouts and daily wear.",
+            "price": 99.22,
+            "oldPrice": 107.79,
+            "discountPrice": 2.66,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/Bcddft4/digital.webp"
+      },
+      {
+            "title": "Analog Watch Gray",
+            "category": "watch",
+            "description": "Classic analog watch with a timeless design, featuring a sleek dial and durable strap. Perfect for everyday wear, blending elegance with functionality.",
+            "price": 12.29,
+            "oldPrice": 14.39,
+            "discountPrice": 1.65,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/khr8B6q/analogone.webp"
+      },
+      {
+            "title": "Analog Fmale Watch",
+            "category": "watch",
+            "description": "Classic analog watch with a timeless design, featuring a sleek dial and durable strap. Perfect for everyday wear, blending elegance with functionality.",
+            "price": 14.55,
+            "oldPrice": 17.93,
+            "discountPrice": 1.75,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/c6JrgJt/analogfour.webp"
+      },
+      {
+            "title": "Analog Watch Black",
+            "category": "watch",
+            "description": "Classic analog watch with a timeless design, featuring a sleek dial and durable strap. Perfect for everyday wear, blending elegance with functionality.",
+            "price": 19.99,
+            "oldPrice": 22.99,
+            "discountPrice": 2.65,
+            "rating": 2,
+            "image": "https://i.ibb.co.com/khr8B6q/analogone.webp"
+      },
+      {
+            "title": "Smart Digital watch",
+            "category": "watch",
+            "description": "Stylish smartwatch that tracks fitness, heart rate, and notifications, keeping you connected on the go. With customizable watch faces and long battery life, its perfect for both workouts and daily wear.",
+            "price": 66.55,
+            "oldPrice": 69.39,
+            "discountPrice": 2.66,
+            "rating": 5,
+            "image": "https://i.ibb.co/XLd51dt/Digital-Watch.png"
+      },
+      {
+            "title": "Sofa Single Seater-Blue",
+            "category": "furniture",
+            "description": "The Sofa Single Seater in Orange brings a bold pop of color with its plush cushioning and modern design. Ideal for brightening up any room, it offers both style and comfort.",
+            "price": 52.66,
+            "oldPrice": 56.33,
+            "discountPrice": 3.24,
+            "rating": 2,
+            "image": "https://i.ibb.co.com/NSt98by/s5.webp"
+      },
+      {
+            "title": "Sofa Single Seater-Orange",
+            "category": "furniture",
+            "description": "The Sofa Single Seater in Blue offers a vibrant touch with its comfortable padding and stylish design. Its rich color and cozy seating make it a perfect addition to any contemporary space.",
+            "price": 41.33,
+            "oldPrice": 48.55,
+            "discountPrice": 2.45,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/cYFbtPN/s4.webp"
+      },
+      {
+            "title": "Revolving Chair 1203",
+            "category": "furniture",
+            "description": "The Revolving Chair 1203 features 360-degree swivel functionality with smooth-rolling wheels for easy mobility. Its cushioned seat and adjustable height ensure comfort and flexibility for any workspace.",
+            "price": 33.12,
+            "oldPrice": 44.33,
+            "discountPrice": 4.24,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/1XwZQYg/Picsart-24-07-02-13-04-37-750-350x350-png.webp"
+      },
+      {
+            "title": "Sofa Single Seater-Cream",
+            "category": "furniture",
+            "description": "The Sofa Single Seater in Cream provides plush comfort with its soft cushioning and elegant design. Its minimalist style and neutral tone blend seamlessly into any modern living space.",
+            "price": 44.77,
+            "oldPrice": 49.91,
+            "discountPrice": 3.44,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/VLGcZ0Q/s1.webp"
+      },
+      {
+            "title": "Visitor Chair DT-1224",
+            "category": "furniture",
+            "description": "The Visitor Chair DT-1224 combines sleek design with durable construction, offering a comfortable seating experience. Its cushioned seat and sturdy frame make it ideal for waiting areas and offices.",
+            "price": 48.22,
+            "oldPrice": 55.88,
+            "discountPrice": 4.77,
+            "rating": 2,
+            "image": "https://i.ibb.co.com/KV54MTh/c3.webp"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Green",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek Green glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 122.22,
+            "oldPrice": 133.39,
+            "discountPrice": 11.34,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/Lr4zGvJ/refrigerator1.png"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator White",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek White glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 139.22,
+            "oldPrice": 149.77,
+            "discountPrice": 9.34,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/GPHqK5m/refrigerator8.png"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Blue",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek Blue glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 149.99,
+            "oldPrice": 159.99,
+            "discountPrice": 12.34,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/2nfbF7P/refrigerator4.png"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator RE-160L Blue FL-BM",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek blue glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 129.99,
+            "oldPrice": 149.99,
+            "discountPrice": 11.34,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/ggv6nvq/refrigerator2.png"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Black",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek Black glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 129.99,
+            "oldPrice": 149.99,
+            "discountPrice": 11.34,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/3vvGP1P/refrigerator3.png"
+      },
+      {
+            "title": "Samsung Galaxy A13",
+            "category": "mobile",
+            "description": "The Samsung Galaxy A13 features a 6.6-inch display, powered by an Exynos 850 processor. It offers 4GB/6GB RAM with 64GB/128GB storage, expandable up to 1TB via microSD. The device includes a 50MP quad-camera setup and a 5000mAh battery for long-lasting use.",
+            "price": 199.99,
+            "oldPrice": 299.99,
+            "discountPrice": 4.62,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/X8FWD41/mobile1.webp"
+      },
+      {
+            "title": "Smart Walton LED TV 32 Inch",
+            "category": "electric",
+            "description": "The Smart Walton 32 Inch LED TV delivers crisp visuals and immersive sound, perfect for small to medium-sized rooms. With built-in smart features, it provides easy access to popular apps and streaming platforms for endless entertainment.",
+            "price": 300.99,
+            "oldPrice": 310.99,
+            "discountPrice": 5.62,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/sRqwcWH/ledtv.webp"
+      },
+      {
+            "title": "VISION Rice Cooker 3.0 Ltr SS Blue",
+            "category": "electric",
+            "description": "A 3-liter stainless steel rice cooker in vibrant Blue, perfect for cooking and steaming. Easy to use and ideal for preparing large meals efficiently.",
+            "price": 43.12,
+            "oldPrice": 44.67,
+            "discountPrice": 3.34,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/8mXLJyx/Pressarcoker4.png"
+      },
+      {
+            "title": "Galaxy-Tab-S6-Lite",
+            "category": "mobile",
+            "description": "The Samsung Galaxy Tab S6 Lite comes with 4GB of RAM and 64GB/128GB storage, expandable up to 1TB via microSD. It features a 10.4-inch display, an 8MP rear camera, and a 7040mAh battery for all-day use.",
+            "price": 331.33,
+            "oldPrice": 350.99,
+            "discountPrice": 4.62,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/JkjxZ77/Galaxy-Tab-S6-Lite.webp"
+      },
+      {
+            "title": "Samsung-Galaxy-S23-Ultra",
+            "category": "mobile",
+            "description": "The Samsung Galaxy S23 Ultra offers 8GB/12GB of RAM and 256GB/512GB/1TB of internal storage. It features a 6.8-inch Dynamic AMOLED 2X display, a 200MP quad-camera system, and a 5000mAh battery with fast charging.",
+            "price": 1924.00,
+            "oldPrice": 1928.44,
+            "discountPrice": 5.62,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/n7QXn3L/Samsung-Galaxy-S23-Ultra.webp"
+      },
+      {
+            "title": "Samsung-Galaxy-S22-Ultra-5-G",
+            "category": "mobile",
+            "description": "The Samsung Galaxy S22 Ultra 5G comes with 8GB/12GB of RAM and 128GB/256GB/512GB/1TB of storage. It features a 6.8-inch Dynamic AMOLED display, a 108MP quad-camera system, and a 5000mAh battery with fast charging.",
+            "price": 1466.00,
+            "oldPrice": 1469.91,
+            "discountPrice": 5.62,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/ZfG7Qwq/Samsung-Galaxy-S22-Ultra-5-G.webp"
+      },
+      {
+            "title": "VISION Electric Kettle Red",
+            "category": "electric",
+            "description": "A fast-boiling electric kettle with a sleek Red design, ideal for heating water in minutes. Perfect for making tea, coffee, or instant meals effortlessly.",
+            "price": 26.12,
+            "oldPrice": 27.67,
+            "discountPrice": 2.34,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/B23jn4H/kettle3.png"
+      },
+      {
+            "title": "Samsung-Galaxy-S24-Ultra",
+            "category": "mobile",
+            "description": "The Samsung Galaxy S24 Ultra comes with 12GB of RAM and 256GB/512GB/1TB of internal storage. It features a 6.8-inch Dynamic AMOLED 2X display, a 200MP quad-camera system, and a 5000mAh battery with fast charging support.",
+            "price": 2033.00,
+            "oldPrice": 2035.44,
+            "discountPrice": 5.62,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/7N2nf17/Samsung-Galaxy-S24-Ultra.webp"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Green",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek green glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 169.22,
+            "oldPrice": 179.77,
+            "discountPrice": 12.34,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/2MvHg0n/refrigerator7.png"
+      },
+      {
+            "title": "ViGO Pressure Cooker 3L",
+            "category": "electric",
+            "description": "A durable 3-liter pressure cooker designed for fast and efficient cooking. Ideal for preparing a variety of meals while saving time and energy.",
+            "price": 34.22,
+            "oldPrice": 36.77,
+            "discountPrice": 2.34,
+            "rating": 2,
+            "image": "https://i.ibb.co.com/sQ4n6K0/Pressarcoker1.png"
+      },
+      {
+            "title": "Smart phone 128GB",
+            "category": "mobile",
+            "description": "Sleek smartphone with 128GB storage, offering fast performance and vibrant display. Capture stunning photos, enjoy smooth multitasking, and store all your apps and media effortlessly.",
+            "price": 899.99,
+            "oldPrice": 919.99,
+            "discountPrice": 5.88,
+            "rating": 3,
+            "image": "https://i.ibb.co/pjvwrY5/Phone.jpg"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Red",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek Red glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 159.99,
+            "oldPrice": 169.99,
+            "discountPrice": 13.34,
+            "rating": 2,
+            "image": "https://i.ibb.co.com/2nfbF7P/refrigerator4.png"
+      },
+      {
+            "title": "Ergonomic Chair DT-909",
+            "category": "furniture",
+            "description": "The Ergonomic Chair DT-909 offers superior lumbar support with adjustable features for optimal comfort. Designed for long hours of use, it promotes healthy posture and reduces strain.",
+            "price": 44.99,
+            "oldPrice": 48.33,
+            "discountPrice": 5.3,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/cXDsGVv/c1.webp"
+      },
+      {
+            "title": "Samsung Galaxy A04s",
+            "category": "mobile",
+            "description": "The Samsung Galaxy A04s comes with 3GB/4GB RAM and 32GB/64GB storage, expandable up to 1TB via microSD. It features a 50MP triple-camera system and a 5000mAh battery for long-lasting performance.",
+            "price": 244.22,
+            "oldPrice": 245.99,
+            "discountPrice": 3.62,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/GPygQNq/mobile3.png"
+      },
+      {
+            "title": "VISION Electric Kettle ",
+            "category": "electric",
+            "description": "A fast-boiling electric kettle with a sleek design, ideal for heating water in minutes. Perfect for making tea, coffee, or instant meals effortlessly.",
+            "price": 24.12,
+            "oldPrice": 27.67,
+            "discountPrice": 2.34,
+            "rating": 5,
+            "image": "https://i.ibb.co.com/ZxyVtnc/kettle2.png"
+      },
+      {
+            "title": "iphone 16 Pro Max",
+            "category": "mobile",
+            "description": "The iPhone 16 Pro Max features a stunning 6.9-inch display, advanced triple-camera system, and A18 chip for lightning-fast performance. With up to 2TB storage, it's perfect for capturing pro-level photos, videos, and immersive experiences.",
+            "price": 1000.99,
+            "oldPrice": 1012.99,
+            "discountPrice": 5.88,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/L6dhV80/iphone.jpg"
+      },
+      {
+            "title": "VISION Electric Kettle",
+            "category": "electric",
+            "description": "A fast-boiling electric kettle with a sleek design, ideal for heating water in minutes. Perfect for making tea, coffee, or instant meals effortlessly.",
+            "price": 22.12,
+            "oldPrice": 25.67,
+            "discountPrice": 2.34,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/fNR4fYX/kettle1.png"
+      },
+      {
+            "title": "Samsung-Galaxy-Tab-A9",
+            "category": "mobile",
+            "description": "The Samsung Galaxy Tab A9 offers 4GB of RAM and 64GB/128GB storage, expandable up to 1TB via microSD. It features an 8.7-inch display and a 5100mAh battery, providing a smooth experience for everyday use.",
+            "price": 288.33,
+            "oldPrice": 290.99,
+            "discountPrice": 4.62,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/nDJ5krX/Samsung-Galaxy-Tab-A9.webp"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator Blue",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek blue glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 169.99,
+            "oldPrice": 179.99,
+            "discountPrice": 11.34,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/ggv6nvq/refrigerator2.png"
+      },
+      {
+            "title": "Vision Glass Door Refrigerator White",
+            "category": "electric",
+            "description": "A 160L refrigerator with a sleek White glass door design, offering efficient cooling and ample storage. Ideal for modern kitchens with its stylish and functional build.",
+            "price": 139.22,
+            "oldPrice": 149.77,
+            "discountPrice": 9.34,
+            "rating": 3,
+            "image": "https://i.ibb.co.com/GPHqK5m/refrigerator8.png"
+      },
+      {
+            "title": "VISION Rice Cooker 3.0 Ltr SS Red",
+            "category": "electric",
+            "description": "A 3-liter stainless steel rice cooker in vibrant red, perfect for cooking and steaming. Easy to use and ideal for preparing large meals efficiently.",
+            "price": 35.22,
+            "oldPrice": 39.77,
+            "discountPrice": 4.34,
+            "rating": 4,
+            "image": "https://i.ibb.co.com/sHP9Lph/Pressarcoker3.png"
+      }
+]
