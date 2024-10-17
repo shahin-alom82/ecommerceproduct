@@ -39,8 +39,8 @@ const Header = () => {
                         </div>
 
                         {/* User & Cart Icons */}
-                        <div className="flex items-center gap-8 relative">
-                              <div className="lg:flex items-center gap-4 hidden md:block">
+                        <div className="lg:flex items-center gap-8 relative hidden md:block">
+                              <div className="lg:flex items-center gap-4 ">
                                     <FiPhone className="text-blue-700" size={30} />
                                     <div className="text-gray-700 text-sm tracking-wide ">
                                           <h1>+00883445645</h1>
@@ -53,8 +53,18 @@ const Header = () => {
                                     <span className="absolute right-9 lg:bottom-7 bottom-5 h-4 w-4 flex text-[14px] font-medium text-blue-700 items-center justify-center rounded-full">{cart.length}</span>
                               </Link>
                         </div>
+                        {/* Mobile Navigation */}
+                        <div className="md:hidden relative">
+                              <BsCartCheckFill size={25} className="text-gray-700" />
+                              <Link to={"/cart"}>
+                                    <span className="absolute right-1 lg:bottom-7 bottom-5 h-4 w-4 flex text-[14px] font-medium text-blue-700 items-center justify-center rounded-full">{cart.length}</span>
+                              </Link>
+                        </div>
+
+
                   </Container>
                   {/* Mobile Navigation */}
+
                   <div className="flex md:hidden justify-around mt-4 text-sm">
                         {nav.map((item, index) => (
                               <NavLink

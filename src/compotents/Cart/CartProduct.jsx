@@ -12,14 +12,14 @@ const CartProduct = () => {
       const { cart } = useSelector((stete) => stete.cart)
       const dispatch = useDispatch()
       return (
-            <div className="lg:py-16">
+            <div className="lg:py-6">
                   <Container>
                         {
                               cart.length ?
                                     <div>
                                           <div>
                                                 {
-                                                      <div className="overflow-x-auto mt-10 ">
+                                                      <div className="overflow-x-auto mt-10 bg-gray-50">
                                                             <table className="min-w-full">
                                                                   <thead className="">
                                                                         <tr className="text-sm border text-blue-700 border-gray-300">
@@ -43,15 +43,15 @@ const CartProduct = () => {
                                                                                           </Link>
                                                                                     </td>
 
-                                                                                    <td className="px-4 py-2 lg:text-xl text-sm">{item?.title.slice(0, 13)}</td>
-                                                                                    <td className="px-4 py-2 lg:text-xl text-sm">{item?.category}</td>
+                                                                                    <td className="px-4 py-2 lg:text-xl text-sm text-gray-700">{item?.title.slice(0, 13)}</td>
+                                                                                    <td className="px-4 py-2 lg:text-xl text-sm text-gray-700">{item?.category}</td>
  
                                                                                     <td className="px-4 py-2">
                                                                                           <AddCartButton product={item} />
                                                                                     </td>
 
-                                                                                    <td className="px-4 py-2 lg:text-xl text-sm">
-                                                                                          <PriceFormate amount={item.price * item.quantity} />
+                                                                                    <td className="px-4 py-2 lg:text-xl text-sm ">
+                                                                                          <PriceFormate className={"text-green-500"} amount={item.price * item.quantity} />
                                                                                     </td>
                                                                                     <td className="px-4 py-2 hover:text-red-600 cursor-pointer">
                                                                                           <IoClose
