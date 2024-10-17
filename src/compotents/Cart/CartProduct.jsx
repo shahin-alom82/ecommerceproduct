@@ -19,7 +19,7 @@ const CartProduct = () => {
                                     <div>
                                           <div>
                                                 {
-                                                      <div className="overflow-x-auto mt-10 scrollbar-custom  bg-gray-50 h-[290px] border border-gray-300">
+                                                      <div className="overflow-x-auto mt-10 scrollbar-custom overflow-auto  bg-gray-50 h-[290px] border border-gray-300">
                                                             <table className="min-w-full">
                                                                   <thead className="">
                                                                         <tr className="text-sm border text-blue-700 border-gray-300">
