@@ -19,7 +19,7 @@ const CartProduct = () => {
                                     <div>
                                           <div>
                                                 {
-                                                      <div className="overflow-x-auto mt-10 bg-gray-50">
+                                                      <div className="overflow-x-auto mt-10 scrollbar-custom  bg-gray-50 h-[290px] border border-gray-300">
                                                             <table className="min-w-full">
                                                                   <thead className="">
                                                                         <tr className="text-sm border text-blue-700 border-gray-300">
@@ -32,7 +32,7 @@ const CartProduct = () => {
                                                                               <th className="px-4 py-2 text-left">Remove</th>
                                                                         </tr>
                                                                   </thead>
-                                                                  <tbody>
+                                                                  <tbody className="">
                                                                         {cart.map((item) => (
                                                                               <tr className="border border-gray-300" key={item.id}>
                                                                                
@@ -43,7 +43,7 @@ const CartProduct = () => {
                                                                                           </Link>
                                                                                     </td>
 
-                                                                                    <td className="px-4 py-2 lg:text-xl text-sm text-gray-700">{item?.title.slice(0, 13)}</td>
+                                                                                    <td className="px-4 py-2 lg:text-xl text-sm text-gray-700">{item?.title.slice()}</td>
                                                                                     <td className="px-4 py-2 lg:text-xl text-sm text-gray-700">{item?.category}</td>
  
                                                                                     <td className="px-4 py-2">
