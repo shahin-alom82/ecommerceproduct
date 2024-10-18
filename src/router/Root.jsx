@@ -1,4 +1,4 @@
-import { Outlet } from "react-router-dom";
+import { Outlet, ScrollRestoration } from "react-router-dom";
 import Header from "../compotents/Header";
 import Footer from "../compotents/Footer";
 
@@ -7,6 +7,7 @@ const Root = () => {
             <div className="font-bodyFont">
                   <Header />
                   <Outlet />
+                  <ScrollRestoration />
                   <Footer />
             </div>
       );
